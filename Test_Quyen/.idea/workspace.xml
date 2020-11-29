@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54b6aee1-1949-4561-9199-1b23af60d424" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jtec98hqu4OwLZN3uetYHcw0ue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b6aee1-1949-4561-9199-1b23af60d424" name="Default Changelist" comment="" />
+      <created>1604627891392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604627891392</updated>
+      <workItem from="1604627892417" duration="11404000" />
+      <workItem from="1604716301964" duration="1000" />
+      <workItem from="1606190011066" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom" timestamp="1604716043393">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1604716043393" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/1680.23.1366.745/0.23.1680.947@0.23.1680.947" timestamp="1604627953729" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center" timestamp="1604716043392">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1604716043392" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center/1680.23.1366.745/0.23.1680.947@0.23.1680.947" timestamp="1604627953728" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left" timestamp="1604716043392">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1604716043392" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left/1680.23.1366.745/0.23.1680.947@0.23.1680.947" timestamp="1604627953727" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right" timestamp="1604716043393">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1604716043393" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right/1680.23.1366.745/0.23.1680.947@0.23.1680.947" timestamp="1604627953729" />
+  </component>
+</project>
